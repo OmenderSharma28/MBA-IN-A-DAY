@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#FFFF00"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1"
+
+>
+<TextView
+android:id="@+id/textview2"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Project Info System
+Purpose
+The Project Information System is a flexible, comprehensive information system you can use to
+monitor and control your project data. You can evaluate individual projects, partial projects, or
+multiple projects. The system includes overview reports and reports offering various degrees of
+detail. The Project Information System is designed to meet the needs of both project
+management and ordinary project personnel.
+Integration
+You need this component to analyze and control your project.
+You can transfer data from the project information system to the SAP Business Informaion
+Warehouse (BW). BW is a management information system that gathers information from the
+various areas in your business and makes them available for management reports
+Features
+You can run recurring standard reports and create your own reports to meet your specific
+information needs and tasks. You can display all data in the information system immediately after
+entering it or can run the reports in the background.
+Report evaluation includes a wide range of functions. For example, you can branch to other
+reports for more detailed information, send reports via Mail, or print them.
+The standard also includes reports offering different degrees of detail, summarizations, and
+views of current data, version data, and archive data for:
+ Structures
+ Controlling
+ Progress
+ Resources
+ Material
+" android:textColor="#ff0000" android:textSize="25dp"/>
+</ScrollView>
+</LinearLayout>

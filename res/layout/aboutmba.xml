@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/linearlayout"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#FF1493">
+<ImageButton
+android:id="@+id/imgbutton"
+android:src="@drawable/backbutton"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:maxWidth="25dp" android:paddingLeft="10dp"/>
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1">
+<TextView
+  android:autoText="true"
+  android:id="@+id/textview"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:text="MBA In A Day
+ The Need and The Problem:-
+
+“MBA in a Day” is a response to a need evidenced by a phenomenon found in the nation’s top-tier MBA programs: professionals taking MBA classes that are outliers to the “traditional” MBA student, e.g., physicians, attorneys, scientists, technicians, business owners and non-profit executives….
+
+These professionals are taking MBA courses because their professional education and post-graduate training did not prepare them for the “business-side” relative to the practice of their profession….
+
+….but for most time-challenged professionals, taking a 16 week MBA course or enrolling in 1 or 2 year MBA program is not feasible….
+
+The Solution:-
+“MBA in a DAY” provides time-efficient, focused, and in-depth coverage of essential business concepts and strategies that MBA students study in graduate business school programs….
+	
+“MBA in a Day” is designed to serve time-pressured, well-educated professionals seeking the benefit from an intense, “boot-camp” immersion in current business concepts and principles, applied and tailored to their professional organizational setting or entrepreneurial relevant ventures.
+
+“MBA in A Day” is also a career-builder for emerging leaders who want to gain a competitive edge or advancing up the organizational ladder.
+  "
+android:textColor="#8B0000" android:background="#FFD700" android:textSize="25dp"></TextView>
+</ScrollView>
+</LinearLayout>

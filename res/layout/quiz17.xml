@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:background="#8B0000">
+<TextView
+android:id="@+id/textview"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:textSize="25dp"
+android:textStyle="bold"
+android:textColor="#ffffff"
+android:text="Ques:-What is the key driver to quality according to TQM?"
+android:background="#8B0000"/>
+<RadioGroup
+android:id="@+id/rg"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+>
+<RadioButton
+android:id="@+id/rb1"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Management"
+android:textSize="20dp" android:textStyle="bold"/>
+<RadioButton
+android:id="@+id/rb2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Production."
+android:textSize="20dp" android:textStyle="bold"/>
+<RadioButton
+android:id="@+id/rb3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Operations."
+android:textSize="20dp" android:textStyle="bold"/>
+<RadioButton
+android:id="@+id/rb4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Marketting."
+android:textStyle="bold" android:textSize="20dp"/>
+</RadioGroup>
+<ImageButton
+android:id="@+id/imgbtn"
+android:src="@drawable/nextbutton"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+/>
+</LinearLayout>

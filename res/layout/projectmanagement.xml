@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#FFFF00"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1"
+
+>
+<TextView
+android:id="@+id/textview1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Project Management
+Project management is a carefully planned and organized effort to accomplish a successful project. A 
+project is a one-time effort that produces a specific result, for example, a building or a major new 
+
+computer system. This is in contrast to a program, which is 1) an ongoing process, such as a quality 
+control program, or 2) an activity to manage a series of multiple projects together. In some countries,
+ the term program refers to a software tool and the term programme can mean a TV or radio show.
+Project management includes developing a project plan, which includes defining and confirming the project
+ goals and objectives, identifying tasks and how goals will be achieved, quantifying the resources needed,
+  and determining budgets and timelines for completion. It also includes managing the implementation of 
+  the project plan, along with operating regular 'controls' to ensure that there is accurate and objective
+  
+   information on 'performance' relative to the plan, and the mechanisms to implement recovery actions 
+   where necessary.
+Projects usually follow major phases or stages (with various titles for these), including feasibility, 
+definition, project planning, implementation, evaluation and support/maintenance.
+There are many software tools that make project management much more effective and efficient. Software 
+Tools to Do Project Management Process lists software resources. The reader might best be served to read
+ about the overall project management process in the section, Foundations of Project Management below,
+ 
+  and then review some of the software tools. Another approach is to review the tools as the reader 
+  progresses through each phase of the project management process.
+ 
+" android:textColor="#000080" android:textSize="25dp"/>
+</ScrollView>
+</LinearLayout>

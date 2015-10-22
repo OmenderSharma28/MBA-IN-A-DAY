@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#8B008B"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content" 
+  android:layout_weight="1">
+>
+<TextView
+  android:id="@+id/textview"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:text="Management
+As we know “Leadership and Team Building” management is used to be focused on direction and control. 
+Now it is more involved with manager as support and facilitation and the evolving notion of the manager 
+as “coach”. In conjunction with this role as a supportive facilitator, manager are now focusing on 
+efficiently and effectively utilizing the intellectual capital of an organization. Intellectual capital 
+consists of the knowledge, expertise, and dedication of an organization’s workforce. The management of 
+intellectual capital is necessary in order to get the most out of an organization’s material resources 
+and achieve organizational goals.
+In practice, managers accomplish organizational goals through the process of defining goals, organizing 
+structures, motivating employees, and monitoring performance and outcomes. In performing these processes 
+manager often takes on several different roles. These roles were described by Henry Mintzberg and include 
+interpersonal roles, informational roles, and decisional roles. Interpersonal roles are ways in which 
+a manager works and communicates with others. Informational roles are ways in which a manager acquires, 
+processes, and shares information. Decisional roles are how a manager uses information to make decisions, 
+which involves identifying opportunities and problems and acting on them appropriately, allocating 
+resources, handling conflicts, and negotiating.
+In order to fill these roles effectively managers use skills that allow them to translate knowledge into 
+action. Robert Katz describes three different sets of skills that managers use, including technical, 
+human, and conceptual skills. Technical skills are used to perform a specialized task. They are learned 
+both from experience and from education, and they can involved using a specific type of technology or 
+process.
+
+" android:textSize="25dp" android:textColor="#7FFF00"/>
+</ScrollView>
+</LinearLayout>

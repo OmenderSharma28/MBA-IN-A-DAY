@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#7FFF00"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1"
+
+>
+<TextView
+  android:id="@+id/textview"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:text="Marketing Strategy
+Business Strengths 
+The South Jersey RCD Council provides comprehensive weather data used in various USDA and Rutgers 
+Cooperative Extension irrigation scheduling and pest management programs, watershed monitoring/modeling
+ programs, lawn watering programs, and other resource information.
+
+Business Weaknesses
+We need to increase our marketing effort to reach new clients in a number of counties.
+
+Profit
+To earn a minimum $20,000 per year to be used to hire one weather station technician and gain complete
+ financial freedom from searching for grants to maintain and improve the network as needed.
+
+Sales
+To increase individual sales accounts of weather data to over 100 yearly users.  To increase engineering
+ sales accounts to over 25 yearly users.  To develop 10 water suppliers accounts for summer lawn watering programs.
+
+Marketing
+To become the dominate weather data delivery organization in New Jersey.
+
+Description of Our Customers
+This will be done elswhere and will include information from the latest census reports, GIS maps of the
+ farm community relative to the location of our weather stations, and more.
+
+Our Customers’ Needs
+Our farmers need timely access to accurate weather data that is used to help schedule irrigation water
+ application and scheduling and pest management processes.  Homeowners need access to easy to use lawn
+  management information.  Engineers need access to accurate, local weather data for their clients.  
+  Watershed monitoring/modeling individuals and organizations need access to highly detailed accounts of
+   local ainfall within the specific watershed.
+
+Why Our Customers Choose Us
+We offer timely, accurate weather data that meets or exceeds their primary needs.  Our system is locally
+ located near our clients.  This local aspect gains trust in data captured and presented.  Our electronic system removes much of the human error.  Our data is available 24/7 via our Web site at www.sjrcd.org.
+
+What Sets Us Apart From the Competition
+No one else has the weather station network we do.
+
+" android:textSize="25dp" android:textColor="#000000"/>
+</ScrollView>
+</LinearLayout>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#DEB887"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1"
+>
+<TextView
+android:id="@+id/textview3"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Business Plan
+Learning Systems Inc. (LSI) is the largest online educational provider on complementary alternative
+medicine (CAM) and Bible content.
+Its rich market niche, characterized by corporate clients with large budgets, significant training needs
+ and
+receptiveness to new technology, include Healthcare Providers, Academic institutions, Multilevel Network
+Marketing and Manufacturing Companies, Alternative Health Industries, Christian Seminaries and Clergy.
+LSI delivers its unique CAM content via Internet-based courses on CLEGA University™, its full-service,
+centrally hosted, scalable remote proprietary virtual campus.
+Its leadership position is based upon one of the largest CAM and Bible content library ever assembled.
+Developed by the Founders over a period of 22 years of research, the library includes over 180,000
+proprietary abstracts, 704 disease monographs, 71 trace mineral and 22 amino acid monographs, 500
+Nutritional/Herbal Therapeutic Remedy Monographs and 1100 Bible study courses. Founders themselves
+collectively have over 54 years experience in creating courses and books for the CAM market.
+Modern technology has made possible to gather and present this information economically and efficiently
+and LSI is leading the effort to marry technology and information dissemination through three strategic
+technology alliances which allow to register, enroll, teach, test, grade and certify distance learners 
+in a seamless fashion.
+LSI is focusing its resources in the CAM and Bible e-learning business. E-learning is in fact the 
+fastestgrowing and most promising market in the education industry and corporate e-learning is expected
+ to top $7
+billion by 2002, according to WR Hambrecht  Co.
+By continuously developing and expanding its CAM and Bible database, relentlessly streamlining the
+process of delivering content and widening the range and variety of its e-learning educational products,
+ LSI
+intends to maintain and strengthen its leadership position in this lucrative market niche while creating
+significant B2B and e-commerce opportunities.
+Exploiting the latter to their fullest potential is a natural evolution for LSI: E-Train-the Trainer 
+revenues,
+portal development revenues, e-mail marketing fees , royalty commissions on sales (vitamins, herbs, skin
+care products, DVDs  video, magazines, newsletters, religious books) will provide a significant
+complementary revenue stream for the company that will increase market share, promote name recognition,
+and maximize efficiency.
+ 
+" android:textSize="25dp" android:textColor="#000000"/>
+</ScrollView>
+</LinearLayout>

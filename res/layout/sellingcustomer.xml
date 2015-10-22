@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:background="#7FFF00">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1"
+
+>
+<TextView
+android:id="@+id/textview4"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Selling  Customer
+Sell Solutions, Not Products!
+Customer-Focused Selling is not just an adaptation of existing selling techniques to focus more on the 
+customer. Instead, it's a whole new approach that can barely even be called selling.
+Take any sales techniques you have used in the past, and instead of adapting them, throw them out!
+Don't even think of this approach as selling the customer. Think of it instead in terms of helping 
+customers to find solutions that will help them achieve their objectives.
+Leave your objectives, your sales goals, and your quotas at the door. Instead, adopt the mindset that 
+you are there as an inside consultant to help your prospect with the tools (the products or services) 
+that you have available.
+Focus On The Customer's Needs!
+Customer-Focused Selling means NOT focusing on your great products or wonderful services! It means, 
+instead, focusing on the customer's needs.
+I know you can't wait to show them to the customer! I know you can't wait to explain to the customer how
+ you think you can help his or her business! I know you can't wait to go into competitive advantages! But
+  you're going to have to wait! If you want to sell the best way possible, you are going to have to wait
+   to start presenting your products or services.
+Instead, you need to shine the spotlight on the customer!
+First, you need to find out what the customer wants, what the customer cares about, and what objectives
+ the customer is trying to achieve.
+Every Customer Is Different
+Customer-Focused Selling means helping your customer find added value.
+You need to be totally focused and immersed in helping your customer. You need to be focusing on how you
+ can deliver as much benefit as possible toward the customer's objectives.
+And as business today becomes more complex, a salesperson needs to be able to explore and address buyers
+ who have many different concerns.
+In selling to retailers, for example, I see salespeople overwhelmingly assuming that the buyer is 
+completely pre-occupied with how well the salesperson's product will sell. But often retailers' 
+concerns are more complex. They may also need to determine how the product will affect their overall
+ product mix; how it will impact their monthly open-to-buy budget; what co-op advertising funds may be
+  available; and how reliable the re-stocking schedule will be.
+Today more than ever, each customer has very unique concerns, and you can't sell until you find out what
+ those concerns are!
+Have A Dialogue, Not A Presentation!
+Keep your sales presentation customized to the one customer you are with.
+You may very well have a slick dog-and-pony show that's lots of fun to present to customers. Maybe it's
+ a
+ video, a computer program, or just a four-color catalog. Think twice before you make a generic 
+ presentation.
+Customers don't want to hear about how great your company is or how wonderful your products are. They 
+want to have their concerns answered.
+Today, customers are overflowing with information, and they are tired of slick, high-tech presentations.
+What you can offer is a presentation that addresses their concerns and issues--and ONLY their concerns 
+and issues.
+Better yet, think of your presentation as a two-way dialogue in which both you and the customer explore
+ the customer's needs first, and then determine how your products or services may be able to meet those
+  needs.
+Put On Your Customer's Shoes!
+Customer-Focused Selling means imagining yourself in your customer's shoes from the beginning to the 
+end of the sales process.
+Wouldn't you rather have a salesperson call on you who genuinely wants to help you find solutions for 
+your business than a salesperson who is just going to blast canned product sales pitches at you?
+Wouldn't you rather deal with a salesperson who explores solutions with you instead of tries to close 
+the sale prematurely or who meets every one of your objections with an argumentative response?
+Wouldn't you rather deal with a salesperson who is trying to sell you the best product or service for 
+your needs than the one that they can make the most money on?
+ 
+" android:background="#00FFFF" android:textSize="20dp" android:textColor="#8B0000"/>
+</ScrollView>
+</LinearLayout>

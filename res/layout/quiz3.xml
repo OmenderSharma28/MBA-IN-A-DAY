@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:background="#8B0000">
+  
+<TextView
+android:id="@+id/textview"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:textSize="20dp"
+android:textStyle="bold"
+android:textColor="#ffffff"
+android:text="Ques:-Which type of planning is more short term?"
+/>
+<RadioGroup
+android:id="@+id/rg"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+>
+<RadioButton
+android:id="@+id/rb1"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Strategic planning"
+android:textSize="20dp"/>
+<RadioButton
+android:id="@+id/rb2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Budget planning"
+android:textSize="20dp"/>
+<RadioButton
+android:id="@+id/rb3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Contingency plans"
+android:textSize="20dp"/>
+<RadioButton
+android:id="@+id/rb4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Operational planning"
+android:textSize="20dp"/>
+</RadioGroup>
+<ImageButton
+android:id="@+id/imgbtn"
+android:src="@drawable/nextbutton"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+/>
+</LinearLayout>

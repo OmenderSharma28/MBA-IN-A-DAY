@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#FFFF00"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1"
+
+>
+<TextView
+android:id="@+id/textview1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Porter’s 5 Forces
+
+The Porter's 5 Forces tool is a simple but powerful tool for understanding where power lies in a business
+ situation. This is useful, because it helps you understand both the strength of your current competitive
+  position, and the strength of a position you're considering moving into.
+With a clear understanding of where power lies, you can take fair advantage of a situation of strength,
+ improve a situation of weakness, and avoid taking wrong steps. This makes it an important part of your
+  planning toolkit.
+Conventionally, the tool is used to identify whether new products, services or businesses have the 
+potential to be profitable. However it can be very illuminating when used to understand the balance of
+ power in other situations.
+Understanding the Tool:
+Five Forces Analysis assumes that there are five important forces that determine competitive power in a
+ business situation. These are:
+1.	Supplier Power: Here you assess how easy it is for suppliers to drive up prices. This is driven by
+ the number of suppliers of each key input, the uniqueness of their product or service, their strength
+  and control over you, the cost of switching from one to another, and so on. The fewer the supplier 
+  choices you have, and the more you need suppliers' help, the more powerful your suppliers are.
+2.	Buyer Power: Here you ask yourself how easy it is for buyers to drive prices down. Again, this is 
+driven by the number of buyers, the importance of each individual buyer to your business, the cost to
+ them of switching from your products and services to those of someone else, and so on. If you deal with
+  few, powerful buyers, then they are often able to dictate terms to you.
+3.	Competitive Rivalry: What is important here is the number and capability of your competitors. If you
+ have many competitors, and they offer equally attractive products and services, then you'll most likely
+  have little power in the situation, because suppliers and buyers will go elsewhere if they don't get a
+   good deal from you. On the other hand, if no-one else can do what you do, then you can often have 
+   tremendous strength.
+4.	Threat of Substitution: This is affected by the ability of your customers to find a different way of
+ doing what you do – for example, if you supply a unique software product that automates an important 
+ process, people may substitute by doing the process manually or by outsourcing it. If substitution is 
+ easy and substitution is viable, then this weakens your power.
+5.	Threat of New Entry: Power is also affected by the ability of people to enter your market. If it 
+costs little in time or money to enter your market and compete effectively, if there are few economies 
+of scale in place, or if you have little protection for your key technologies, then new competitors can 
+quickly enter your market and weaken your position. If you have strong and durable barriers to entry, 
+then you can preserve a favorable position and take fair advantage of it.
+ 
+" android:textSize="25dp" android:textColor="#000000"/>
+</ScrollView>
+</LinearLayout>

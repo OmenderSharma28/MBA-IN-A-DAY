@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#FF00FF"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1">
+<TextView
+android:id="@+id/textview1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Financial Management
+Financial Management can be defined as:
+The management of the finances of a business / organisation in order to achieve financial objectives
+Taking a commercial business as the most common organisational structure, the key objectives of financial
+ management would be to:
+• Create wealth for the business
+• Generate cash, and
+• Provide an adequate return on investment bearing in mind the risks that the business is taking and the
+ resources invested
+There are three key elements to the process of financial management:
+
+(1) Financial Planning
+Management need to ensure that enough funding is available at the right time to meet the needs of the 
+business. In the short term, funding may be needed to invest in equipment and stocks, pay employees and
+ fund sales made on credit.
+In the medium and long term, funding may be required for significant additions to the productive capacity
+ of the business or to make acquisitions.
+(2) Financial Control
+Financial control is a critically important activity to help the business ensure that the business is
+ meeting its objectives. Financial control addresses questions such as:
+• Are assets being used efficiently?
+• Are the businesses assets secure?
+• Do management act in the best interest of shareholders and in accordance with business rules?
+(3) Financial Decision-making
+The key aspects of financial decision-making relate to investment, financing and dividends:
+• Investments must be financed in some way – however there are always financing alternatives that can 
+be considered. For example it is possible to raise finance from selling new shares, borrowing from banks
+ or taking credit from suppliers
+• A key financing decision is whether profits earned by the business should be retained rather than 
+distributed to shareholders via dividends. If dividends are too high, the business may be starved of 
+funding to reinvest in growing revenues and profits further.
+ 
+" android:textColor="#800000" android:textSize="25dp"/>
+</ScrollView>
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#FFD700"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1">
+>
+<TextView
+android:id="@+id/textview2"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Organizational Behaviour
+
+An organization consists of individuals with different task attempting to accomplish a common purpose. 
+(For a business, this purpose is the creation and delivery of goods or services for its customers.) 
+Organizational behavior is the study of how individuals and groups perform together within an 
+organization. It focuses on the best way to manage individuals, groups, organization, and processes.
+Organizational studies, sometimes known as organizational science, encompass the systematic study and 
+careful application of knowledge about how people act within organizations. Organizational studies 
+sometimes is considered a sister field for, or overarching designation that includes, the following 
+disciplines: industrial and organizational psychology, organizational behavior, human resources, and 
+management. However, there is no universally accepted classification system for such subfields.
+The study of Organizational Behaviour (OB) is very interesting and challenging too. It is
+related to individuals, group of people working together in teams. The study becomes more
+challenging when situational factors interact. The study of organizational behaviour relates to the 
+expected behaviour of an individual in the organization. No two individuals
+are likely to behave in the same manner in a particular work situation. It is the predictability of a 
+manager about the expected behaviour of an individual. There are no absolutes
+in human behaviour. It is the human factor that is contributory to the productivity hence
+the study of human behaviour is important. Great importance therefore must be attached
+to the study. Researchers, management practitioners, psychologists, and social scientists
+must understand the very credentials of an individual, his background, social framework,
+educational update, impact of social groups and other situational factors on behaviour.
+Managers under whom an individual is working should be able to explain, predict, evaluate 
+and modify human behaviour that will largely depend upon knowledge, skill and
+experience of the manager in handling large group of people in diverse situations. Preemptive actions 
+need to be taken for human behaviour forecasting. The value system, emotional intelligence, 
+organizational culture, job design and the work environment are important causal agents in determining 
+human behaviour. Cause and effect relationship plays an important role in how an individual is likely to 
+behave in a particular situation and its impact on productivity. An appropriate organizational culture 
+can modify individual behaviour. Recent trends exist in laying greater stress on organizational 
+development and imbibing a favourable organizational culture in each individual. It also involves
+fostering a team spirit and motivation so that the organizational objectives are achieved.
+There is a need for commitment on the part of the management that should be continuous
+and incremental in nature. The scope of the organizational behaviour is as under:
+(a) Impact of personality on performance
+(b) Employee motivation
+(c) Leadership
+(d) How to create effective teams and groups
+" android:textColor="#8B0000" android:textSize="25dp"/>
+</ScrollView>
+</LinearLayout>

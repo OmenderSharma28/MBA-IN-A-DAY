@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#FF00FF"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1"
+>
+<TextView
+android:id="@+id/textview3"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Global Trends In Economics
+After attaining the highest growth rate in 2000 for more than a decade, the world economy
+experienced a sharp downturn over the last quarter of 2000 and into the new year.  The principal
+factors behind this reversal and near-term economic prospects were examined in Trade and
+Development Report, 2001, issued in April, on the basis of preliminary data available for the first
+quarter of 2001.  Based on an analysis of underlying imbalances and fragilities in the world economy,
+the UNCTAD secretariat argued that without a coordinated global policy response, the slowdown in
+the United States would produce a synchronous cyclical downturn in the world economy.  Rather than
+a rapid rebound, the United States economy could experience a prolonged period of sluggish growth
+which even quick conventional policy actions might be unable to remedy.  The Report also suggested
+that even Europe could be much more vulnerable to the slowdown in the United States than was
+generally expected by policy makers in the region, and without a determined change in economic policy,
+European growth would fall substantially below the 3 per cent experienced in the previous year.
+Similarly, without more aggressive measures designed to reverse persistent deflation, Japan’s recovery
+remained highly fragile.  If all these risks became reality, there would be a sharp deterioration in the
+external trading environment of developing countries, many of which were struggling to re-establish
+conditions for rapid and sustained growth after recent bouts of financial crisis.  While some emerging
+markets were expecting to improve their performance as a result of lower United States interest rates
+and a weaker dollar, these benefits could be easily wiped out by reassessment of risks, rising risk
+spreads and falling capital inflows brought about by slowdown in global growth and a further round of
+uncertainty.
+Already on the eve of events of 11 September, global economic conditions had been
+deteriorating over a year.  The decline in the pace of demand in the first half of 2001 had been sharper2
+than expected and for the first time since the late 1970s much of the world economy was simultaneously
+experiencing slower growth (table 1).  The slowdown in the major industrial countries had begun to
+affect the rest of the world through trade and financial linkages, and many economies in Asia and Latin
+America were confronting recessionary pressures.  Until the events of September 11, however, policy
+makers in most major industrial countries were reluctant to adopt a coordinated approach to stabilizing
+and reviving the world economy.  But the recent events that have made possible such a coordinated
+macroeconomic policy response have also made the world economy more fragile and unpredictable.
+. 
+"
+android:textSize="25dp" android:textColor="#000000"/>
+</ScrollView>
+</LinearLayout>

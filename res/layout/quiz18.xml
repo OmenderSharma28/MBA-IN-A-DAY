@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#8B0000"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<TextView
+android:id="@+id/textview"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:textSize="20dp"
+android:textStyle="bold"
+android:textColor="#ffffff"
+android:text="Ques:-According to the CQL, what empower team?"
+/>
+<RadioGroup
+android:id="@+id/rg"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+>
+<RadioButton
+android:id="@+id/rb1"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Bribes"
+android:textSize="20dp"/>
+<RadioButton
+android:id="@+id/rb2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Promotions."
+android:textSize="20dp"/>
+<RadioButton
+android:id="@+id/rb3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Incentives."
+android:textSize="20dp"/>
+<RadioButton
+android:id="@+id/rb4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:text="Encouragement."
+android:textSize="20dp"/>
+</RadioGroup>
+
+<ImageView
+    android:id="@+id/imageView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/nextbutton" />
+
+</LinearLayout>

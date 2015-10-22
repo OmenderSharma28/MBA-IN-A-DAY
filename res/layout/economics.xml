@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#00FFFF"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1">
+
+<TextView
+android:id="@+id/textview2"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="TEconomics
+Economics has been recognized as a special area of study for over a century. Virtually all four-year
+ colleges offer courses in economics and most allow students to major in the subject. Economists maintain
+  high profiles in governments and they have been well-represented among the highest appointees in the
+   federal government of the United States. The press reports on their doings and sayings, sometimes 
+   with praise and admiration, sometimes with ridicule and scorn. Economics and economists are words 
+   that almost everyone has heard of and uses. But what exactly is economics? Very few people can give 
+   a good definition or description of what this field of study is all about.
+If ordinary citizens cannot give a good definition or description of economics, they can be excused 
+because economists long struggled to define their field. In addition, the subject matter that economists
+ study is not well-defined. In recent years, for example, economic journals have published papers on 
+ topics such as sex, crime, slavery, childbearing, and rats. It is not surprising, then, that one 
+ economist, in a lighter moment, suggested that economics can be defined as what economists do.
+Defining economics as what economists do does not tell us anything we did not already know. A good 
+definition must explain what it is that makes economics a distinct subject, different from physics or 
+psychology. One should not expect to find a short definition that conveys with absolute clarity all 
+there is to know about economics (or else there would be no reason to spend hours learning about it). 
+Neither should one believe that there is only one correct definition possible. Many good definitions are
+ possible, and each will focus on some important aspect of the subject. To use an analogy, there is not
+  one spot from which one can best view Niagara Falls. Each viewpoint obscures some features and 
+  emphasizes others. There are, of course, some spots that are clearly superior to others, but people 
+  can disagree about which is the very best spot.
+This group of readings examines definitions of economics and explains what those definitions mean.
+________________________________________
+After you finish this unit, you should be able to:
+•	Explain what the term invisible hand means and who first used it.
+•	Give at least one common definition of economics.
+•	State what Malthus thought about population growth.
+•	Explain how Popper defines scientific statements.
+•	Distinguish between positive and normative statements.
+•	Explain what scarcity, choice, and self-interest have to do with economics.
+" android:textColor="#000000" android:textSize="25dp"/>
+</ScrollView>
+</LinearLayout>

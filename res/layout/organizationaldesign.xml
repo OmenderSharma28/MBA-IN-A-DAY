@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#FFD700"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1">
+>
+<TextView
+android:id="@+id/textview3"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Organizational Design
+The manner in which management achieves the rightcombination of differentiation and integration of the 
+organization's operations, in response to the level of uncertainty in its external environment.
+Differentiation refers to the subdivision of functional or departmental units, each concentrating on a 
+particular aspect of the organization's operations. Integration refers to the linking of differentiated 
+units to achieve unity of effort in working toward organization's goals. In times of high uncertainty, 
+greater organizational effectiveness is achieved through high differentiation coupled with high 
+integration. In times of low uncertainty, low differentiation and low integration are more effective. 
+See also organizational structure.
+
+The five structures are basic organizational structures, which are then adapted to an organization's 
+needs:
+•	Functional structure groups positions into work units based on similar activities, skills, expertise,
+ and resources. Production, marketing, finance, and human resources are common groupings within a 
+ functional structure.
+•	Divisional structure groups departments according to organizational outputs — by product type, 
+customer, or geography.
+•	Matrix structure combines functional specialization with the focus of divisional structure. This 
+structure uses permanent cross-functional teams to integrate functional expertise with a divisional 
+focus.
+ Employees in a matrix structure belong to at least two formal groups at the same time — a functional 
+ group and a product, program, or project team.
+•	Team structure organizes separate functions into a group based on one overall objective The intent 
+is to break down functional barriers among departments and create a more effective relationship for 
+solving ongoing problems.
+•	Network structure relies on other organizations to perform critical functions on a contractual basis. That is, managers can contract out specific work to specialists.
+ 
+" android:textSize="25dp" android:textColor="#8B0000"/>
+</ScrollView>
+</LinearLayout>

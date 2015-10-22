@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#7FFF00"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1">
+
+>
+<TextView
+android:id="@+id/textview1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Leadership
+Leadership is the art of getting someone else to do something you want done because he wants to do it.
+Dwight D. Eisenhower
+Individual managers have their own styles of managing, and within organizations there is often a 
+predominant style of leadership. The predominate leadership styles autocratic, democratic, and 
+laissez-faire have many variations. We can compare and contrast the effectiveness of each of 
+these styles as it affects employee performance.
+Autocratic Leadership
+This type of leadership is both directive and controlling. The leader will make all decisions without 
+consulting employees and will also dictate employee roles. Micromanaging is a form of autocratic 
+leadership in which upper management controls even the smallest tasks under taken by sub-ordinates. 
+The autocratic style of leadership limits employee freedom of expression and participation in the 
+decision-making process. It may result in alienating employees from leadership and will not serve to 
+create trust between managers and sub-ordinates. Further, creative minds cannot flourish under 
+autocratic leadership.
+Autocratic leadership may best be used when companies are managing less experienced employee. 
+U.S. companies operating in less developed countries often use autocratic leadership. It allows the 
+parent corporation more control over its overseas investment. In countries where the government 
+controls the economy, U.S. corporations often use autocratic leadership because the employee are used 
+to making decisions to satisfy the goals of the government, not the parent corporation.
+
+" android:textSize="25dp" android:textColor="#000000"/>
+</ScrollView>
+</LinearLayout>

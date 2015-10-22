@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#FFFF00"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1"
+
+>
+<TextView
+  android:id="@+id/textview"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:text="NQuality
+COMPETITIVENESS: activities under this heading are oriented towards the removal of supplyside 
+constraints, the promotion of the manufacture of products with high export potential and the 
+provision of assistance related to:
+• Developing productive capacities
+• Developing a conducive policy environment for investment and private sector development
+• Identifying key export areas facing supply-side constraints and value chain analysis
+• Upgrading industrial structures and mechanisms for value addition
+• Advising on product design, technology, upgrading and quality control
+• Establishing technology support institutions to improve technology acquisition
+• Improving business efficiency and performance, especially quality management
+• Introducing energy-saving, cleaner technologies, minimizing waste and utilizing by-productsv
+• Enhancing capacity to meet international standards and client quality and safety
+requirements 
+• Introducing a legal framework for consumer protection
+• Ensuring access to requirements via WTO enquiry points
+• Advising on food safety requirements, HACCP, TBT/SPS requirements, ISO 9001/14001
+• Ensuring compliance with labelling and packaging requirements
+• Introducing SME subcontracting and partnership exchanges
+  CONFORMITY: activities under this heading are oriented towards promoting conformity with
+  market requirements and securing a larger share in export markets, focusing on:
+• Upgrading conformity assessment infrastructure
+• Establishing the requisite legal and regulatory framework for conformity
+• Establishing recognized standards, accreditation, certification and inspection schemes
+• Developing internationally recognized and harmonized conformity structures
+• Upgrading laboratories and supporting international accreditation
+• Establishing international calibration chains for measurement and precision manufacture
+• Creating an environment conducive to export promotion
+• Creating an enabling environment for foreign direct investment
+• Establishing national investment promotion agencies
+• Developing export support policy and export promotion infrastructure
+• Introducing export support services and trade information services
+• Linking to global supply chains and export consortia and cluster development
+  CONNECTIVITY: activities under this heading are carried out in cooperation with other agencies and 
+  oriented towards supporting developing countries in their efforts to acquire the technological and 
+  institutional capacities they need to implement WTO agreements and participate
+  fully in the new rules-based trading system. The focus is on:
+• Integrating with the international trade framework and rules
+• Sensitizing developing countries to WTO rules and facilitating WTO accession
+• Enhancing negotiating capacities and promoting policies for the settlement of disputes
+• Adhering to notification requirements
+• Harmonizing customs procedures and transport mechanisms
+• Improving port and harbour operations and handling procedures
+• Streamlining registration and documentation requirements
+• Improving pre-shipment inspection and facilitating customs clearance
+
+" android:textSize="25dp" android:textColor="#000082"/>
+</ScrollView>
+</LinearLayout>

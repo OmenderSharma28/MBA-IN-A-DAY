@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#7FFF00"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1"
+
+>
+<TextView
+android:id="@+id/textview2"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Key Promotional Tools
+It is widely considered that article writing is now one of the key promotional tools that should be 
+employed to drive targeted traffic to your website. Promoting your site via the use of fresh, new 
+articles or those from article directories has become very popular and convenient. The popular search 
+engines want new, creative material and content for their users who are very demanding. As such, the 
+major search engines view the internet as one huge resource for information just as internet users 
+consider it to be an enormous database. If you're considering this subject from the search engine's 
+point of view, which many people do, then rewriting an article simply means to make the article content
+ unique. 
+
+You may wish to write completely fresh, unique content articles in which case there are certain points 
+you need to remember. First of all, research your topic, there is a wealth of information you can search
+for before you start and all you need to do is enter a few keywords into a search engine. Setting the 
+article out correctly is paramount otherwise it will not flow so you will need the subject introduction
+which may highlight a particular problem, then a middle section explaining the subject more, finishing
+with a conclusion. The structure is important but so is the length with most around 400 to 500 words
+with the conclusion about five sentences or so to summarize. Remember to split the article up into
+about four to five paragraphs for easier reading; once you have written the article, you need to 
+include a resource box containing your information and any links. 
+
+Making money online isn't just about writing articles for your self to promote your own website or 
+business because you could even be asked to write articles for other people's websites, blogs etc. 
+If you are not full of ideas of what to write, then I can help you a way to start. Well, why not use 
+ideas from your own experience, it could be anything but let's say you enjoy fly fishing and want to 
+tell people how to make their own flies. If you would prefer not to write about your experiences, which 
+would be a real waste, then why not write about smaller niche markets which can open up all manner of 
+possibilities.
+
+To become a good article writer you should employ good writing techniques. Once you have found an 
+unlimited source for ideas then you must write something every day for your skills to improve until 
+it becomes second nature. Writing this regularly has worked well for most writers as practice makes 
+perfect. I wish that these guidelines were like the Holy Grail of writing but they're not although they
+have worked for many writers including myself, only you can decide whether it's this system or another
+that best suits you, however, whatever method you choose, stick with it.
+" android:textColor="#000000" android:textSize="25dp"/>
+</ScrollView>
+</LinearLayout>

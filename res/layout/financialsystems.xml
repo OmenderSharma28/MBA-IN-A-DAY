@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:background="#FFD700">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1">
+
+>
+<TextView
+  android:id="@+id/textview"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:text="Financial Systems
+Financial systems help inform your organization’s planning and action plans. Financial systems also help
+ you track and manage the resources required to successfully complete your work. These tips provide basic practices you will need to build ﬁnancial sustainability in your organization. Demonstrating good stewardship of resources assists CSOs in efforts to be accountable to stakeholders and funders, and helps build conﬁdence that your organization is a good place for funders to invest. Other reasons why developing ﬁnancial systems are important include:
+• Financial systems and capacity help the organization to make sound decisions based on cash ﬂow and
+ available resources.
+• Monitoring funds, or comparing actual income and expenses versus budgeted amounts, helps  managers
+ ensure that the necessary funds are in place to complete an activity.
+• Most governments require that registered, charitable organizations create accounts that track income 
+and expenses.
+• Funders require reports that demonstrate that grants were used for intended purposes.
+• Establishing ﬁnancial controls and clear accounting procedures help ensure that funds are used for 
+intended purposes.
+• Transparency, clear planning and realistic projections contributes to the credibility of the 
+organization.
+Financial System of any country consists of financial markets, financial intermediation and financial 
+instruments or financial products. This paper discusses the meaning of finance and Indian Financial 
+System and focus on the financial markets, financial intermediaries and financial instruments. The brief
+ review on various money market instruments are also covered in this study.
+ 
+
+The term finance in our simple understanding it is perceived as equivalent to 'Money'. We read about 
+Money and banking in Economics, about Monetary Theory and Practice and about Public Finance.
+But finance exactly is not money, it is the source of providing funds for a particular activity. Thus 
+public finance does not mean the money with the Government, but it refers to sources of raising revenue 
+for the activities and functions of a Government. Here some of the definitions of the word 'finance', 
+both as a source and as an activity i.e. as a noun and a verb.
+
+
+"
+ android:textSize="25dp" android:textColor="#8B0000"/>
+</ScrollView>
+</LinearLayout>

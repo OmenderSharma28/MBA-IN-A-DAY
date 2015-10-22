@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.tabexample"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="8" />
+
+    <application android:icon="@drawable/frontpage" android:label="@string/app_name">
+        <activity android:name=".TabWidgetActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+                
+        <activity android:name=".HomeActivity"></activity>
+        <activity android:name=".PeopleActivity"></activity>
+        <activity android:name=".MoneyActivity"></activity>
+        <activity android:name=".MarketActivity"></activity>
+        <activity android:name=".SystemActivity"></activity>
+        <activity android:name=".AboutMBA"></activity>
+        <activity android:name=".ManagementInfo"></activity>
+        <activity android:name=".LeadershipInfo"></activity>
+        <activity android:name=".OrganizationalBehaviourInfo"></activity>
+        <activity android:name=".OrganizationalDesignInfo"></activity>
+        <activity android:name=".HumanResourceInfo"></activity>
+        <activity android:name=".FinancialSystems"></activity>
+        <activity android:name=".FinancialManagement"></activity>
+        <activity android:name=".Economics"></activity>
+        <activity android:name=".GlobalTrendsInEconomics"></activity>
+        <activity android:name=".MarketingStrategy"></activity>
+        <activity android:name=".ProtersForces"></activity>
+        <activity android:name=".KeyPromotionalTools"></activity>
+        <activity android:name=".PowerOfBrand"></activity>
+        <activity android:name=".SellingCustomer"></activity>
+        <activity android:name=".Quality"></activity>
+        <activity android:name=".ProjectManagement"></activity>
+        <activity android:name=".ProjectInfoSystems"></activity>
+        <activity android:name=".TheBusinessPlan"></activity>
+        <activity android:name=".QuizActivity"></activity>        
+        <activity android:name=".NextQuestion"></activity>
+        <activity android:name=".NextQuestion1"></activity>
+        <activity android:name=".NextQuestion2"></activity>
+        <activity android:name=".NextQuestion3"></activity>
+        <activity android:name=".NextQuestion4"></activity>
+        <activity android:name=".NextQuestion5"></activity>
+        <activity android:name=".NextQuestion6"></activity>
+        <activity android:name=".NextQuestion7"></activity>
+        <activity android:name=".NextQuestion8"></activity>
+        <activity android:name=".NextQuestion9"></activity>
+        <activity android:name=".NextQuestion10"></activity>
+        <activity android:name=".NextQuestion11"></activity>
+        <activity android:name=".NextQuestion12"></activity>
+        <activity android:name=".NextQuestion13"></activity>
+        <activity android:name=".NextQuestion14"></activity>
+        <activity android:name=".NextQuestion15"></activity>
+        <activity android:name=".NextQuestion16"></activity>
+        <activity android:name=".NextQuestion17"></activity>
+      
+    </application>
+</manifest>

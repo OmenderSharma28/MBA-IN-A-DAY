@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#4682b4"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+<ScrollView
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:layout_weight="1">
+>
+<TextView
+android:id="@+id/textview4"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:text="Human Resource
+
+Human resource (HR) is the management of an organization's employees. This includes employment and 
+arbitration in accord with the law, and with a company's directives. 
+Its features include:
+	Organizational management
+	Personnel administration
+	Manpower management
+	Industrial management
+
+But these traditional expressions are becoming less common for the theoretical discipline. Sometimes 
+even employee and industrial relations are confusingly listed as synonyms, although these normally refer
+ to the relationship between management and workers and the behavior of workers in companies.
+The theoretical discipline is based primarily on the assumption that employees are individuals with 
+varying goals and needs, and as such should not be thought of as basic business resources, such as trucks
+ and filing cabinets. The field takes a positive view of workers, assuming that virtually all wish to 
+ contribute to the enterprise productively, and that the main obstacles to their endeavors are lack of 
+ knowledge, insufficient training, and failures of process.
+Human Resource (HR) is seen by practitioners in the field as a more innovative view of workplace 
+management than the traditional approach. Its techniques force the managers of an enterprise to express
+ their goals with specificity so that they can be understood and undertaken by the workforce and to 
+ provide the resources needed for them to successfully accomplish their assignments. As such, HRM 
+ techniques, when properly practiced, are expressive of the goals and operating practices of the 
+ enterprise overall. HRM is also seen by many to have a key role in risk reduction within organizations.
+ 
+" android:textColor="#000000" android:textSize="25dp"/>
+</ScrollView>
+</LinearLayout>
